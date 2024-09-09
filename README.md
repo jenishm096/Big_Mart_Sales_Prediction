@@ -25,17 +25,18 @@ Ensure you have the following files in your repository:
 - model.pkl - The trained linear regression model.
 - preprocessor.pkl - The preprocessor used for feature transformation.
 These files should be placed in the root directory of your project.
-
 ### Running the Streamlit Application
-	- Save the Streamlit Code
 
-		Save the app.py from the repository in the root directory of your project.
-### Start the Streamlit Application
+1. **Save the Streamlit Code**
 
-	In your terminal, navigate to the directory containing app.py, and run:
-		- streamlit run app.py
+   - Save the `app.py` file from the repository in the root directory of your project.
 
+2. **Start the Streamlit Application**
 
+   - In your terminal, navigate to the directory containing `app.py`, and run:
+     
+     streamlit run app.py
+     
 This command will start a local server and open the Streamlit application in your default web browser.
 ### Using the Streamlit Application
 
